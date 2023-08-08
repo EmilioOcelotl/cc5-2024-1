@@ -1,4 +1,4 @@
-![portada](https://raw.githubusercontent.com/EmilioOcelotl/cc3-2024-1/main/img/banner.png)
+![portada](https://raw.githubusercontent.com/EmilioOcelotl/cc5-2024-1/main/img/banner.png)
 
 # Código Creativo 5: Iluminación interactiva y render en tiempo real
 
