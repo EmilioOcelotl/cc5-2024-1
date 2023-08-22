@@ -6,8 +6,9 @@ Al finalizar el curso el alumno: Comprenderá y aplicará técnicas de renderiza
 
 ## Sesiones 
 
-- [x] 08.08.24 - [TouchDesigner](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/doc/s01.md)
-- [ ] 15.08.24 - [TOPs 2da Parte](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/doc/s02.md)
+- [x] 08.08.23 - [TouchDesigner](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/doc/s01.md)
+- [x] 15.08.23 - [TOPs 2da Parte](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/doc/s02.md)
+- [ ] 22.08.23 - [TOPs y CHOPs](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/doc/s03.md)
 
 ## Criterios de evaluación
 
