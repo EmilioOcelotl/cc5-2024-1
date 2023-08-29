@@ -8,12 +8,12 @@ Al finalizar el curso el alumno: Comprenderá y aplicará técnicas de renderiza
 
 - [x] 08.08.23 - [TouchDesigner](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/doc/s01.md)
 - [x] 15.08.23 - [TOPs 2da Parte](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/doc/s02.md)
-- [ ] 22.08.23 - [TOPs y CHOPs](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/doc/s03.md)
+- [x] 22.08.23 - [TOPs y CHOPs](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/doc/s03.md)[Network](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/td/chopsYTops.toe) de la semana pasada
 
 ## Criterios de evaluación
 
-- Bitácora de ejercicios realizados durante el semestre enfocados en visualización de  iluminación inyectiva y render en tiempo real (30%)
-- Creación de una presentación de proyecto animada  (30%)
+- Bitácora de ejercicios realizados durante el semestre enfocados en visualización de iluminación inyectiva y render en tiempo real (30%)
+- Creación de una presentación de proyecto animada (30%)
 - Diseño y creación de experiencia interactiva para la visualización de iluminación y de objetos 3D con controles interactivos (40%)
 
 ## Recursos
