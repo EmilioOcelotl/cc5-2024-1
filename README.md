@@ -11,7 +11,7 @@ Al finalizar el curso el alumno: Comprenderá y aplicará técnicas de renderiza
 - [x] 22.08.23 - [TOPs y CHOPs](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/doc/s03.md) - [Network](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/td/chopsYTops.toe) de la semana pasada
 - [x] 29.08.23 - [Feedback y audio](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/doc/s04.md)
 - [x] 04.09.23 - [Práctica y entrega](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/doc/s05.md) - Usaremos el [archivo](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/td/feedbackYAudio.toe) de la semana pasada - [Archivo final](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/td/feedbackYAudioAjuste.toe)
-- [x] 11.09-23 - [SOPs](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/doc/s06.md)[Archivo SOPS](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/td/sops.toe)
+- [x] 11.09-23 - [SOPs](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/doc/s06.md) - [Archivo SOPS](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/td/sops.toe)
  
 ## Recursos
 
