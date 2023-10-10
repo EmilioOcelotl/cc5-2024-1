@@ -12,8 +12,10 @@ Al finalizar el curso el alumno: Comprenderá y aplicará técnicas de renderiza
 - [x] 29.08.23 - [Feedback y audio](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/doc/s04.md)
 - [x] 04.09.23 - [Práctica y entrega](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/doc/s05.md) - Usaremos el [archivo](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/td/feedbackYAudio.toe) de la semana pasada - [Archivo final](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/td/feedbackYAudioAjuste.toe)
 - [x] 11.09.23 - [SOPs](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/doc/s06.md) - [Archivo SOPS](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/td/sops.toe)
-- [ ] 19.09.23 - [SOPs y detalles](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/doc/s07.md)
- 
+- [x] 19.09.23 - [SOPs y detalles](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/doc/s07.md)
+- [x] 26.09.23 - [Metaballs](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/doc/s08.md) - Archivo
+- [x] 10.10.23 - [Sistema de partículas](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/doc/s09.md) - [Archivo Partículas](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/td/sistemaParticulas.toe)
+
 ## Recursos
 
 - [TouchDesigner](https://derivative.ca/)
