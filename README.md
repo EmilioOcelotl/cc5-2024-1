@@ -16,7 +16,8 @@ Al finalizar el curso el alumno: Comprenderá y aplicará técnicas de renderiza
 - [x] 26.09.23 - [Metaballs](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/doc/s08.md) - [Archivo Metaballs](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/td/metaballs2.toe)
 - [x] 10.10.23 - [Sistema de partículas](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/doc/s09.md) - [Archivo Partículas](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/td/sistemaParticulas.toe)
 - [x] 17.10.23 - [Sistema de partículas 2](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/doc/s10.md)
-- [ ] 24.10.23 - [Texto](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/doc/s11.md) - [Archivo 1](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/td/texto.toe) - [Archivo 2](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/td/texto2.toe)
+- [x] 24.10.23 - [Texto](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/doc/s11.md) - [Archivo 1](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/td/texto.toe) - [Archivo 2](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/td/texto2.toe)
+- [ ] 31.10.23 - [Kantan Mapper](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/doc/s12.md)
 
 ## Recursos
 
