@@ -18,7 +18,8 @@ Al finalizar el curso el alumno: Comprenderá y aplicará técnicas de renderiza
 - [x] 17.10.23 - [10 - Sistema de partículas 2](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/doc/s10.md)
 - [x] 24.10.23 - [11 - Texto](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/doc/s11.md) - [Archivo 1](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/td/texto.toe) - [Archivo 2](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/td/texto2.toe)
 - [x] 31.10.23 - [12 - Kantan Mapper](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/doc/s12.md)
-- [ ] 07.11.23 - [13 - Planeación](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/doc/s13.md) - [Plantilla](https://docs.google.com/document/d/1nCfOJBCUyrMQdmoCqq2xzrEqZuYnajrYXYwIb2eSJ9k/edit)
+- [x] 07.11.23 - [13 - Planeación](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/doc/s13.md) - [Plantilla](https://docs.google.com/document/d/1nCfOJBCUyrMQdmoCqq2xzrEqZuYnajrYXYwIb2eSJ9k/edit)
+- [ ] 14.11.23 - [14 - Planeación/práctica](https://github.com/EmilioOcelotl/cc5-2024-1/blob/main/doc/s14.md) 
 
 ## Recursos
 
